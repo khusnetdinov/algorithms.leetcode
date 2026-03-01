@@ -1,5 +1,6 @@
 ## LeetCode solutions
 
+* [3. Longest Substring Without Repeating Characters](3.js)
 * [643. Maximum Average Subarray I](643.js)
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](1343.js)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](1456.js)
