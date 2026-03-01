@@ -2,6 +2,7 @@
 
 * [3. Longest Substring Without Repeating Characters](3.js)
 * [209. Minimum Size Subarray Sum](209.js)
+* [242. Valid Anagram](242.js)
 * [424. Longest Repeating Character Replacement](424.js)
 * [485. Max Consecutive Ones](485.js)
 * [643. Maximum Average Subarray I](643.js)
