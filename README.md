@@ -4,6 +4,7 @@
 * [209. Minimum Size Subarray Sum](209.js)
 * [242. Valid Anagram](242.js)
 * [424. Longest Repeating Character Replacement](424.js)
+* [438. Find All Anagrams in a String](438.js)
 * [485. Max Consecutive Ones](485.js)
 * [643. Maximum Average Subarray I](643.js)
 * [1004. Max Consecutive Ones III](1004.js)
