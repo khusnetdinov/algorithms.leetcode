@@ -11,3 +11,4 @@
 * [1493. Longest Subarray of 1's After Deleting One](1493.js)
 * [1984. Minimum Difference Between Highest and Lowest of K Scores](1984.js)
 * [2269. Find the K-Beauty of a Number](2268.js)
+* [2660. Determine the Winner of a Bowling Game](2661.js)
