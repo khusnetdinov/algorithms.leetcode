@@ -6,6 +6,7 @@
 * [424. Longest Repeating Character Replacement](424.js)
 * [438. Find All Anagrams in a String](438.js)
 * [485. Max Consecutive Ones](485.js)
+* [567. Permutation in String](567.js)
 * [643. Maximum Average Subarray I](643.js)
 * [1004. Max Consecutive Ones III](1004.js)
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](1343.js)
