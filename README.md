@@ -1,6 +1,7 @@
 ## LeetCode solutions
 
 * [3. Longest Substring Without Repeating Characters](3.js)
+* [167. Two Sum II - Input Array Is Sorted](167.js)
 * [209. Minimum Size Subarray Sum](209.js)
 * [242. Valid Anagram](242.js)
 * [424. Longest Repeating Character Replacement](424.js)
