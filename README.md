@@ -4,6 +4,7 @@
 * [3. Longest Substring Without Repeating Characters](3.js)
 * [15. 3Sum](15.js)
 * [16. 3Sum Closest](16.js)
+* [18. 4Sum](18.js)
 * [167. Two Sum II - Input Array Is Sorted](167.js)
 * [209. Minimum Size Subarray Sum](209.js)
 * [242. Valid Anagram](242.js)
