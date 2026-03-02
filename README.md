@@ -1,5 +1,6 @@
 ## LeetCode solutions
 
+* [1. Two Sum](1.js)
 * [3. Longest Substring Without Repeating Characters](3.js)
 * [167. Two Sum II - Input Array Is Sorted](167.js)
 * [209. Minimum Size Subarray Sum](209.js)
