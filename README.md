@@ -12,6 +12,7 @@
 * [209. Minimum Size Subarray Sum](209.js)
 * [234. Palindrome Linked List](234.js)
 * [242. Valid Anagram](242.js)
+* [409. Longest Palindrome](409.js)
 * [424. Longest Repeating Character Replacement](424.js)
 * [438. Find All Anagrams in a String](438.js)
 * [485. Max Consecutive Ones](485.js)

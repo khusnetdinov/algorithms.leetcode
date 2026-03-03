@@ -14,9 +14,6 @@ _reader.on('line', line => {
 
 process.stdin.on('end', solve);
 
-function isNumOrString(char) {
-    return /^[a-zA-Z0-9]+$/.test(char)
-}
 
 function isPalindrome(number) {
     let result = true;
