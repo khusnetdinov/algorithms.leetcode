@@ -2,6 +2,7 @@
 
 * [1. Two Sum](1.js)
 * [3. Longest Substring Without Repeating Characters](3.js)
+* [5. Longest Palindromic Substring](5.js)
 * [9. Palindrome Number](9.js)
 * [11. Container With Most Water](11.js)
 * [15. 3Sum](15.js)
