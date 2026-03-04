@@ -73,11 +73,6 @@ function solve() {
     process.stdout.write(`${fourSum(numbers)}`);
 }
 
-function readInt() {
-    const n = Number(_inputLines[_curLine]);
-    _curLine++;
-    return n;
-}
 
 function readArray() {
     var arr = _inputLines[_curLine].trim(" ").split(" ").map(num => Number(num));
