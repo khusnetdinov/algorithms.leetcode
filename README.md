@@ -12,6 +12,7 @@
 * [27. Remove Element](27.js)
 * [80. Remove Duplicates from Sorted Array II](80.js)
 * [88. Merge Sorted Array](88.js)
+* [100. Same Tree](100.js)
 * [104. Maximum Depth of Binary Tree]()
 * [125. Valid Palindrome](125.js)
 * [167. Two Sum II - Input Array Is Sorted](167.js)
