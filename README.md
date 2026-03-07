@@ -17,6 +17,7 @@
 * [125. Valid Palindrome](125.js)
 * [167. Two Sum II - Input Array Is Sorted](167.js)
 * [209. Minimum Size Subarray Sum](209.js)
+* [226. Invert Binary Tree](226.js)
 * [234. Palindrome Linked List](234.js)
 * [242. Valid Anagram](242.js)
 * [283. Move Zeroes](283.js)
