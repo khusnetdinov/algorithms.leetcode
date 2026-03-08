@@ -23,6 +23,7 @@
 * [226. Invert Binary Tree](226.js)
 * [234. Palindrome Linked List](234.js)
 * [242. Valid Anagram](242.js)
+* [257. Binary Tree Paths](257.js)
 * [283. Move Zeroes](283.js)
 * [349. Intersection of Two Arrays](349.js)
 * [350. Intersection of Two Arrays II](350.js)
