@@ -12,6 +12,7 @@
 * [27. Remove Element](27.js)
 * [80. Remove Duplicates from Sorted Array II](80.js)
 * [88. Merge Sorted Array](88.js)
+* [94. Binary Tree Inorder Traversal](94.js)
 * [100. Same Tree](100.js)
 * [101. Symmetric Tree](101.js)
 * [104. Maximum Depth of Binary Tree](104.js)
