@@ -30,6 +30,7 @@
 * [485. Max Consecutive Ones](485.js)
 * [543. Diameter of Binary Tree](543.js)
 * [567. Permutation in String](567.js)
+* [572. Subtree of Another Tree](572.js)
 * [643. Maximum Average Subarray I](643.js)
 * [647. Palindromic Substrings](643.js)
 * [680. Valid Palindrome II](680.js)
