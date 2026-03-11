@@ -29,7 +29,7 @@ function hasPathSum(root, targetSum) {
 function solve() {
     const numbers1 = readArray();
     const numbers2 = readInt();
-    process.stdout.write(`${isSubtree(numbers1, numbers2)}`);
+    process.stdout.write(`${hasPathSum(numbers1, numbers2)}`);
 }
 
 function readInt() {

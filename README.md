@@ -22,6 +22,7 @@
 * [209. Minimum Size Subarray Sum](209.js)
 * [226. Invert Binary Tree](226.js)
 * [234. Palindrome Linked List](234.js)
+* [235. Lowest Common Ancestor of a Binary Search Tree](235.js)
 * [242. Valid Anagram](242.js)
 * [257. Binary Tree Paths](257.js)
 * [283. Move Zeroes](283.js)
