@@ -48,6 +48,7 @@
 * [643. Maximum Average Subarray I](643.js)
 * [647. Palindromic Substrings](643.js)
 * [680. Valid Palindrome II](680.js)
+* [912. Sort an Array](912.js)
 * [1004. Max Consecutive Ones III](1004.js)
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](1343.js)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](1456.js)
