@@ -11,6 +11,7 @@
 * [26. Remove Duplicates from Sorted Array](26.js)
 * [27. Remove Element](27.js)
 * [46. Permutations](46.js)
+* [78. Subsets](78..js)
 * [80. Remove Duplicates from Sorted Array II](80.js)
 * [88. Merge Sorted Array](88.js)
 * [94. Binary Tree Inorder Traversal](94.js)
