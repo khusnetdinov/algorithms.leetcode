@@ -25,6 +25,7 @@
 * [125. Valid Palindrome](125.js)
 * [167. Two Sum II - Input Array Is Sorted](167.js)
 * [209. Minimum Size Subarray Sum](209.js)
+* [216. Combination Sum III](216.js)
 * [226. Invert Binary Tree](226.js)
 * [234. Palindrome Linked List](234.js)
 * [235. Lowest Common Ancestor of a Binary Search Tree](235.js)
