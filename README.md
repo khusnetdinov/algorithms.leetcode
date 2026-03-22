@@ -8,6 +8,7 @@
 * [15. 3Sum](15.js)
 * [16. 3Sum Closest](16.js)
 * [18. 4Sum](18.js)
+* [22. Generate Parentheses](22.js)
 * [26. Remove Duplicates from Sorted Array](26.js)
 * [27. Remove Element](27.js)
 * [39. Combination Sum](39.js)
