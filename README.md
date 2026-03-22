@@ -23,6 +23,7 @@
 * [100. Same Tree](100.js)
 * [101. Symmetric Tree](101.js)
 * [104. Maximum Depth of Binary Tree](104.js)
+* [108. Convert Sorted Array to Binary Search Tree](108.js)
 * [112. Path Sum](112.js)
 * [125. Valid Palindrome](125.js)
 * [167. Two Sum II - Input Array Is Sorted](167.js)
