@@ -12,6 +12,7 @@
 * [22. Generate Parentheses](22.js)
 * [26. Remove Duplicates from Sorted Array](26.js)
 * [27. Remove Element](27.js)
+* [35. Search Insert Position](35.js)
 * [39. Combination Sum](39.js)
 * [40. Combination Sum II](40.js)
 * [46. Permutations](46.js)
