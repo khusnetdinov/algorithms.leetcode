@@ -39,6 +39,7 @@
 * [236. Lowest Common Ancestor of a Binary Tree](236.js)
 * [242. Valid Anagram](242.js)
 * [257. Binary Tree Paths](257.js)
+* [278. First Bad Version](278.js)
 * [283. Move Zeroes](283.js)
 * [349. Intersection of Two Arrays](349.js)
 * [350. Intersection of Two Arrays II](350.js)
