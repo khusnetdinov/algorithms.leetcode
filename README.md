@@ -12,6 +12,7 @@
 * [22. Generate Parentheses](22.js)
 * [26. Remove Duplicates from Sorted Array](26.js)
 * [27. Remove Element](27.js)
+* [33. Search in Rotated Sorted Array](33.js)
 * [34. Find First and Last Position of Element in Sorted Array](34.js)
 * [35. Search Insert Position](35.js)
 * [39. Combination Sum](39.js)
