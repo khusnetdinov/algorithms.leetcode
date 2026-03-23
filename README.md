@@ -63,6 +63,7 @@
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](1343.js)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](1456.js)
 * [1493. Longest Subarray of 1's After Deleting One](1493.js)
+* [1539. Kth Missing Positive Number](1539.js)
 * [1679. Max Number of K-Sum Pairs](1679.js)
 * [1984. Minimum Difference Between Highest and Lowest of K Scores](1984.js)
 * [2269. Find the K-Beauty of a Number](2268.js)
