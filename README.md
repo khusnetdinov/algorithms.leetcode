@@ -65,6 +65,7 @@
 * [875. Koko Eating Bananas](875.js)
 * [912. Sort an Array](912.js)
 * [1004. Max Consecutive Ones III](1004.js)
+* [1011. Capacity To Ship Packages Within D Days](1011.js)
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](1343.js)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](1456.js)
 * [1493. Longest Subarray of 1's After Deleting One](1493.js)
