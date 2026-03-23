@@ -62,6 +62,7 @@
 * [704. Binary Search](704.js)
 * [744. Find Smallest Letter Greater Than Target](744.js)
 * [852. Peak Index in a Mountain Array](852.js)
+* [875. Koko Eating Bananas](875.js)
 * [912. Sort an Array](912.js)
 * [1004. Max Consecutive Ones III](1004.js)
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](1343.js)
