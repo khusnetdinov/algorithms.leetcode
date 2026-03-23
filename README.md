@@ -55,6 +55,7 @@
 * [647. Palindromic Substrings](643.js)
 * [680. Valid Palindrome II](680.js)
 * [704. Binary Search](704.js)
+* [744. Find Smallest Letter Greater Than Target](744.js)
 * [912. Sort an Array](912.js)
 * [1004. Max Consecutive Ones III](1004.js)
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](1343.js)
