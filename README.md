@@ -40,6 +40,7 @@
 * [283. Move Zeroes](283.js)
 * [349. Intersection of Two Arrays](349.js)
 * [350. Intersection of Two Arrays II](350.js)
+* [367. Valid Perfect Square](367.js)
 * [409. Longest Palindrome](409.js)
 * [424. Longest Repeating Character Replacement](424.js)
 * [438. Find All Anagrams in a String](438.js)
