@@ -20,6 +20,7 @@
 * [40. Combination Sum II](40.js)
 * [46. Permutations](46.js)
 * [69. Sqrt(x)](69.js)
+* [71. Simplify Path](71.js)
 * [77. Combinations](77.js)
 * [78. Subsets](78..js)
 * [80. Remove Duplicates from Sorted Array II](80.js)
