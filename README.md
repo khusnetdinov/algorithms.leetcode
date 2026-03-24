@@ -73,6 +73,7 @@
 * [1249. Minimum Remove to Make Valid Parentheses](1249.js)
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](1343.js)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](1456.js)
+* [1475. Final Prices With a Special Discount in a Shop](1475.js)
 * [1493. Longest Subarray of 1's After Deleting One](1493.js)
 * [1539. Kth Missing Positive Number](1539.js)
 * [1544. Make The String Great](1544.js)
