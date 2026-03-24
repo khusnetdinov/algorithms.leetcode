@@ -65,6 +65,7 @@
 * [678. Valid Parenthesis String](678.js)
 * [680. Valid Palindrome II](680.js)
 * [704. Binary Search](704.js)
+* [735. Asteroid Collision](735.js)
 * [744. Find Smallest Letter Greater Than Target](744.js)
 * [852. Peak Index in a Mountain Array](852.js)
 * [875. Koko Eating Bananas](875.js)
