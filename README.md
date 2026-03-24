@@ -85,3 +85,4 @@
 * [2269. Find the K-Beauty of a Number](2268.js)
 * [2660. Determine the Winner of a Bowling Game](2661.js)
 * [2824. Count Pairs Whose Sum is Less than Target](2824.js)
+* [2390. Removing Stars From a String](2930.js)
