@@ -9,6 +9,7 @@
 * [16. 3Sum Closest](16.js)
 * [17. Letter Combinations of a Phone Number](17.js)
 * [18. 4Sum](18.js)
+* [20. Valid Parentheses](20.js)
 * [22. Generate Parentheses](22.js)
 * [26. Remove Duplicates from Sorted Array](26.js)
 * [27. Remove Element](27.js)
