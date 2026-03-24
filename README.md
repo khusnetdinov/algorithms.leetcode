@@ -50,6 +50,7 @@
 * [350. Intersection of Two Arrays II](350.js)
 * [367. Valid Perfect Square](367.js)
 * [374. Guess Number Higher or Lower](374.js)
+* [394. Decode String](394.js)
 * [409. Longest Palindrome](409.js)
 * [424. Longest Repeating Character Replacement](424.js)
 * [438. Find All Anagrams in a String](438.js)
