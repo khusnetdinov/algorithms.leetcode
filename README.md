@@ -59,6 +59,7 @@
 * [572. Subtree of Another Tree](572.js)
 * [643. Maximum Average Subarray I](643.js)
 * [647. Palindromic Substrings](643.js)
+* [678. Valid Parenthesis String](678.js)
 * [680. Valid Palindrome II](680.js)
 * [704. Binary Search](704.js)
 * [744. Find Smallest Letter Greater Than Target](744.js)
