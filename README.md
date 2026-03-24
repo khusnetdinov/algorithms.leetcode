@@ -71,6 +71,7 @@
 * [1456. Maximum Number of Vowels in a Substring of Given Length](1456.js)
 * [1493. Longest Subarray of 1's After Deleting One](1493.js)
 * [1539. Kth Missing Positive Number](1539.js)
+* [1544. Make The String Great](1544.js)
 * [1608. Special Array With X Elements Greater Than or Equal X](1608.js)
 * [1679. Max Number of K-Sum Pairs](1679.js)
 * [1984. Minimum Difference Between Highest and Lowest of K Scores](1984.js)
