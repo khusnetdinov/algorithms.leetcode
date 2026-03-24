@@ -68,6 +68,7 @@
 * [1004. Max Consecutive Ones III](1004.js)
 * [1011. Capacity To Ship Packages Within D Days](1011.js)
 * [1021. Remove Outermost Parentheses](1021.js)
+* [1249. Minimum Remove to Make Valid Parentheses](1249.js)
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](1343.js)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](1456.js)
 * [1493. Longest Subarray of 1's After Deleting One](1493.js)
