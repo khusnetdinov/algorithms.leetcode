@@ -34,6 +34,7 @@
 * [148. Sort List](148.js)
 * [150. Evaluate Reverse Polish Notation](150.js)
 * [153. Find Minimum in Rotated Sorted Array](153.js)
+* [155. Min Stack](155.js)
 * [162. Find Peak Element](162.js)
 * [167. Two Sum II - Input Array Is Sorted](167.js)
 * [209. Minimum Size Subarray Sum](209.js)
