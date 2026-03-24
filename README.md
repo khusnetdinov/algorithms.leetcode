@@ -54,6 +54,7 @@
 * [438. Find All Anagrams in a String](438.js)
 * [441. Arranging Coins](441.js)
 * [485. Max Consecutive Ones](485.js)
+* [496. Next Greater Element I](496.js)
 * [543. Diameter of Binary Tree](543.js)
 * [567. Permutation in String](567.js)
 * [572. Subtree of Another Tree](572.js)
