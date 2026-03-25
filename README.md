@@ -33,6 +33,7 @@
 * [110. Balanced Binary Tree](110.js)
 * [112. Path Sum](112.js)
 * [125. Valid Palindrome](125.js)
+* [129. Sum Root to Leaf Numbers](129.js)
 * [144. Binary Tree Preorder Traversal](144.js)
 * [145. Binary Tree Postorder Traversal](145.js)
 * [148. Sort List](148.js)
