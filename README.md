@@ -29,6 +29,7 @@
 * [100. Same Tree](100.js)
 * [101. Symmetric Tree](101.js)
 * [104. Maximum Depth of Binary Tree](104.js)
+* [106. Construct Binary Tree from Inorder and Postorder Traversal](106.js)
 * [108. Convert Sorted Array to Binary Search Tree](108.js)
 * [110. Balanced Binary Tree](110.js)
 * [112. Path Sum](112.js)
