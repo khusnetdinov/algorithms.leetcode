@@ -32,6 +32,7 @@
 * [108. Convert Sorted Array to Binary Search Tree](108.js)
 * [112. Path Sum](112.js)
 * [125. Valid Palindrome](125.js)
+* [144. Binary Tree Preorder Traversal](144.js)
 * [148. Sort List](148.js)
 * [150. Evaluate Reverse Polish Notation](150.js)
 * [153. Find Minimum in Rotated Sorted Array](153.js)
