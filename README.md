@@ -82,6 +82,7 @@
 * [1021. Remove Outermost Parentheses](1021.js)
 * [1249. Minimum Remove to Make Valid Parentheses](1249.js)
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](1343.js)
+* [1448. Count Good Nodes in Binary Tree](1448.js)
 * [1456. Maximum Number of Vowels in a Substring of Given Length](1456.js)
 * [1475. Final Prices With a Special Discount in a Shop](1475.js)
 * [1493. Longest Subarray of 1's After Deleting One](1493.js)
