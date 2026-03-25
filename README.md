@@ -74,6 +74,7 @@
 * [735. Asteroid Collision](735.js)
 * [744. Find Smallest Letter Greater Than Target](744.js)
 * [852. Peak Index in a Mountain Array](852.js)
+* [872. Leaf-Similar Trees](872.js)
 * [875. Koko Eating Bananas](875.js)
 * [912. Sort an Array](912.js)
 * [1004. Max Consecutive Ones III](1004.js)
