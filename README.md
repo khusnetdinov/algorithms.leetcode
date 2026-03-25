@@ -59,6 +59,7 @@
 * [394. Decode String](394.js)
 * [409. Longest Palindrome](409.js)
 * [424. Longest Repeating Character Replacement](424.js)
+* [437. Path Sum III](437.js)
 * [438. Find All Anagrams in a String](438.js)
 * [441. Arranging Coins](441.js)
 * [485. Max Consecutive Ones](485.js)
