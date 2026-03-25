@@ -33,6 +33,7 @@
 * [112. Path Sum](112.js)
 * [125. Valid Palindrome](125.js)
 * [144. Binary Tree Preorder Traversal](144.js)
+* [145. Binary Tree Postorder Traversal](145.js)
 * [148. Sort List](148.js)
 * [150. Evaluate Reverse Polish Notation](150.js)
 * [153. Find Minimum in Rotated Sorted Array](153.js)
