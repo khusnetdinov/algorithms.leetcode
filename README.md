@@ -32,6 +32,7 @@
 * [108. Convert Sorted Array to Binary Search Tree](108.js)
 * [110. Balanced Binary Tree](110.js)
 * [112. Path Sum](112.js)
+* [124. Binary Tree Maximum Path Sum](124.js)
 * [125. Valid Palindrome](125.js)
 * [129. Sum Root to Leaf Numbers](129.js)
 * [144. Binary Tree Preorder Traversal](144.js)
