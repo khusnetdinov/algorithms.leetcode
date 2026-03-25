@@ -84,6 +84,7 @@
 * [1004. Max Consecutive Ones III](1004.js)
 * [1011. Capacity To Ship Packages Within D Days](1011.js)
 * [1021. Remove Outermost Parentheses](1021.js)
+* [1161. Maximum Level Sum of a Binary Tree](1161.js)
 * [1249. Minimum Remove to Make Valid Parentheses](1249.js)
 * [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](1343.js)
 * [1448. Count Good Nodes in Binary Tree](1448.js)
