@@ -97,6 +97,7 @@
 * [1544. Make The String Great](1544.js)
 * [1608. Special Array With X Elements Greater Than or Equal X](1608.js)
 * [1679. Max Number of K-Sum Pairs](1679.js)
+* [1971. Find if Path Exists in Graph](1971.js)
 * [1984. Minimum Difference Between Highest and Lowest of K Scores](1984.js)
 * [2269. Find the K-Beauty of a Number](2268.js)
 * [2660. Determine the Winner of a Bowling Game](2661.js)
