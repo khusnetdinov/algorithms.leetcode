@@ -84,6 +84,7 @@
 * [875. Koko Eating Bananas](875.js)
 * [912. Sort an Array](912.js)
 * [1004. Max Consecutive Ones III](1004.js)
+* [1005. Maximize Sum Of Array After K Negations](1005.js)
 * [1011. Capacity To Ship Packages Within D Days](1011.js)
 * [1021. Remove Outermost Parentheses](1021.js)
 * [1161. Maximum Level Sum of a Binary Tree](1161.js)
