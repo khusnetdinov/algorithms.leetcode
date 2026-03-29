@@ -72,6 +72,7 @@
 * [543. Diameter of Binary Tree](543.js)
 * [567. Permutation in String](567.js)
 * [572. Subtree of Another Tree](572.js)
+* [605. Can Place Flowers](605.js)
 * [643. Maximum Average Subarray I](643.js)
 * [647. Palindromic Substrings](643.js)
 * [678. Valid Parenthesis String](678.js)
